@@ -22,7 +22,7 @@ Doc Redactor is a powerful AI-based tool that detects and redacts sensitive info
 ## 🔐 Features
 
 - ✅ Redacts **emails**, **phone numbers**, **Transaction Id**, **Passwords**, **Faces** and more
-- 📄 Accepts **plain text**, **PDFs**, and **Word (DOCX)** files
+- 📄 Accepts **Images**, **PDFs**, and **Word (DOCX)** files
 - 🖼️ Highlights redacted text or regions for transparency
 - 📦 Easy-to-use **Gradio UI**
 - 🐳 Docker compatible
