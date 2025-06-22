@@ -1,0 +1,7 @@
+gradio
+opencv-python-headless
+pytesseract
+pdf2image
+python-docx
+Pillow
+numpy
